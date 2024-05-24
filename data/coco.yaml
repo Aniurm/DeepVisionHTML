@@ -1,0 +1,6 @@
+train: dataset/train # 训练集路径
+val: dataset/valid # 验证集路径
+test: dataset/test # 测试集路径
+
+nc: 7  # 类别数
+names: ['banner', 'button', 'form', 'header', 'logo', 'long_paragraph', 'short_paragraph']
